@@ -5,3 +5,6 @@ Add anothre line
 
 This is a new line from my local computer
 "I want to add a new line and then go outside" 
+
+This is a line that I added. I wonder why the previous line had the quotes.
+Did I not need them when adding the line from the terminal?
